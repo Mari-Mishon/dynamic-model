@@ -1,5 +1,5 @@
 
-fid = fopen('C:\Users\Alexandr\Desktop\lab_1\input.txt');
+fid = fopen('C:\Users\Mary\Desktop\lab_1\input.txt');
 
 nextline = fgetl(fid);
 [X,~] =str2num(tline);
